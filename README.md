@@ -80,6 +80,8 @@ NFC Card
 - The event is logged and confirmed via Slack
 
 ---
+<img width="509" height="554" alt="Screenshot 2026-01-03 at 12 04 39 PM" src="https://github.com/user-attachments/assets/e7f8b42a-3921-41e8-9c12-6e54791d0099" />
+
 
 ## Hardware Components
 
@@ -112,6 +114,8 @@ NFC Card
 - Database for logging medication events
 
 ---
+<img width="362" height="374" alt="Screenshot 2026-01-03 at 12 10 28 PM" src="https://github.com/user-attachments/assets/c649a75c-e281-42b3-8107-9b1e0eda8da1" />
+<img width="722" height="403" alt="Screenshot 2026-01-03 at 12 09 58 PM" src="https://github.com/user-attachments/assets/e98e8663-79d5-4fee-8498-8e2575d10ea9" />
 
 ## Implementation Notes
 
